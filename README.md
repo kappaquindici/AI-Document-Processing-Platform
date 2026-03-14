@@ -244,7 +244,7 @@ Possible areas of contribution:
 
 # License
 
-MIT License
+GNU GENERAL PUBLIC LICENSE Version 3
 
 ---
 
